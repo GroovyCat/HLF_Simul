@@ -8,27 +8,23 @@
 ## Methods
 ### System Overview
 <img src="./Uploads/overview.png" width="800px" height="400px"></img>
-
 ### System flow
 <img src="./Uploads/flowchart.png" width="600px" height="500px"></img>
-
 ### System functions
-<img src="./Uploads/functions.png" width="800px" height="400px"></img>
-
+<img src="./Uploads/functions.png" width="800px" height="400px"></img
 ### Indoor Map UI
 <img src="./Uploads/map_ui.png" width="800px" height="400px"></img>
-
 ### Status UI
 <img src="./Uploads/status.png" width="600px" height="600px"></img>
-
 ### Victims Generate
 <img src="./Uploads/victims.png" width="800px" height="400px"></img>
-
 ### Fire Generate
 <img src="./Uploads/fire.png" width="800px" height="400px"></img>
-
 ### System Manager
 <img src="./Uploads/manager.png" width="800px" height="500px"></img>
-
 ## Environment
-
+| Configuration | Name              |
+| :-----------: | :---------------: |
+| Device        | Hololens 2        |
+| Tool Version  | Unity 2020.3.35f1 |
+| SDK           | MRTK 2.7.3        |
