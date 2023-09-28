@@ -15,6 +15,20 @@
 ### System functions
 <img src="./Uploads/functions.png" width="800px" height="400px"></img>
 
+### Indoor Map UI
+<img src="./Uploads/map_ui.png" width="800px" height="400px"></img>
+
+### Status UI
+<img src="./Uploads/status.png" width="800px" height="400px"></img>
+
+### Victims Generate
+<img src="./Uploads/victims.png" width="800px" height="400px"></img>
+
+### Fire Generate
+<img src="./Uploads/fire.png" width="800px" height="400px"></img>
+
+### System Manager
+<img src="./Uploads/manager.png" width="800px" height="400px"></img>
 
 ## Environment
 
