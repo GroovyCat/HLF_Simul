@@ -7,7 +7,10 @@
 * 증강 실내 지도와 탈출 지점으로의 내비게이션 및 조난자의 위치까지의 내비게이션 등 실내 재난 구조 작업에 도움을 줄 수 있는 혼합현실 기반의 시뮬레이션 시스템을 설계하였다.   
 ## Methods
 ### System Overview
-<img src="./Uploads/overview.png" width="800px" height="400px" title="System Overview"></img>
+<img src="./Uploads/overview.png" width="800px" height="400px"></img>
+
+### System flow
+<img src="./Uploads/flowchart.png" width="800px" height="500px"></img>
 
 ## Environment
 
