@@ -26,5 +26,5 @@
 | Configuration | Name              |
 | :-----------: | :---------------: |
 | Device        | Hololens 2        |
-| Tool Version  | Unity 2020.3.35f1 |
+| Tool version  | Unity 2020.3.35f1 |
 | SDK           | MRTK 2.7.3        |
