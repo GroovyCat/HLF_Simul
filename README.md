@@ -12,5 +12,9 @@
 ### System flow
 <img src="./Uploads/flowchart.png" width="600px" height="500px"></img>
 
+### System functions
+<img src="./Uploads/functions.png" width="800px" height="400px"></img>
+
+
 ## Environment
 
