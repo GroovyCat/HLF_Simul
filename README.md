@@ -10,7 +10,7 @@
 <img src="./Uploads/overview.png" width="800px" height="400px"></img>
 
 ### System flow
-<img src="./Uploads/flowchart.png" width="800px" height="500px"></img>
+<img src="./Uploads/flowchart.png" width="600px" height="500px"></img>
 
 ## Environment
 
