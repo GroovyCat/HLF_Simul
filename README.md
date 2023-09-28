@@ -19,7 +19,7 @@
 <img src="./Uploads/map_ui.png" width="800px" height="400px"></img>
 
 ### Status UI
-<img src="./Uploads/status.png" width="800px" height="500px"></img>
+<img src="./Uploads/status.png" width="600px" height="600px"></img>
 
 ### Victims Generate
 <img src="./Uploads/victims.png" width="800px" height="400px"></img>
